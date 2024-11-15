@@ -1,6 +1,6 @@
 function imgchange1() {
-    document.getElementById('logo').src = './image/jousaikyara.jpg';
+    document.getElementById('logo').src = './image/img_01.jpg';
 }
 function imgchange2() {
-    document.getElementById('logo').src = './image/josai.jpg';
+    document.getElementById('logo').src = './image/unnamed.jpg';
 }
