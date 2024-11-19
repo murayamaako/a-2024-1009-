@@ -4,3 +4,6 @@ function imgchange1() {
 function imgchange2() {
     document.getElementById('logo').src = './image/unnamed.jpg';
 }
+
+function imgchamge1(){
+    document.getElementbyid('logo').src='./image/bulbon.gif';}
