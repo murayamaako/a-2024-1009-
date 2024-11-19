@@ -5,3 +5,5 @@ function imgchange2() {
     document.getElementById('logo').src = './image/unnamed.jpg';
 }
 
+function imgchange1(){
+    docment.getElementByod('logo').src='./image/bulbon.gif;}
