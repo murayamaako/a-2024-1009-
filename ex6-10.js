@@ -1,5 +1,5 @@
 function imgchange1() {
-    document.getElementById('logo').src = './image/img_01.jpg';
+    document.getElementById('logo').src = './image/heartmoji_06.png';
 }
 function imgchange2() {
     document.getElementById('logo').src = './image/unnamed.jpg';
