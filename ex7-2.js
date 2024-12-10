@@ -1,4 +1,4 @@
 function add(){
-  var x = document.getElementByid('input1').value;
-  var y = document.getElementByid('input2').value;
+  var x = document.getElementByld('input1').value;
+  var y = document.getElementByld('input2').value;
   alert(x+y);}
