@@ -1,5 +1,5 @@
 function sayhello71(){
-  alert('Hello,' +  document.getElementByld('who71').value + '!');
+  alert('Hello,' +  document.getElementById('who71').value + '!');
 }
 
   
